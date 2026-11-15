@@ -2,6 +2,7 @@
   "expo": {
     "name": "familytree",
     "slug": "family-tree-app",
+    "owner": "rivhjacob",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +26,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b70633a3-fab6-4cd9-99d2-10d2dccde835"
+      }
     }
   }
 }
